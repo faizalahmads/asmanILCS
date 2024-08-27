@@ -18,7 +18,7 @@ a {
 }
 
 .text-blue-200 {
-    color: #0B5AFD;
+    color: #0B5AFD !important;
 }
 
 .fs-64px {
@@ -56,6 +56,12 @@ a {
 .btn.btn-red-200:hover {
     background: #FA16161A;
     color: #FA1616;
+}
+
+.btn.btn-light-100 {
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
 }
 
 /* Navbar */
@@ -108,7 +114,8 @@ a {
 }
 
 .modal-content {
-    max-width: 500px !important;
+    width: 700px !important;
+    max-width: 800px !important;
 }
 
 /* Input */

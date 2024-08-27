@@ -183,11 +183,28 @@ hr {
 .table-container tr,
 .table-container td {
     height: 3.25rem;
-    text-align: center !important;
     vertical-align: middle;
 }
 
 .table-container td {
     border-top: 2px solid #EFEFEF;
     border-bottom: 2px solid #EFEFEF;
+}
+
+/* Kode */
+.tab-kode-container {
+    height: 50px;
+    background: #FFFFFF;
+    border-bottom: 2px solid #010919;
+}
+
+.kode-option {
+    width: 333px;
+}
+
+.kode-label-modal {
+    width: 100%;
+    height: 50px;
+    background: #02225A;
+    color: #FFFFFF;
 }

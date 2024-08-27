@@ -43,9 +43,9 @@ function Navbar() {
                 Inventaris
               </a>
               <ul className='dropdown-menu' aria-labelledby='navbarDropdown'>
-                <li><a className='dropdown-item custom-dropdown-item text-white' href='#'>Action</a></li>
-                <li><a className='dropdown-item custom-dropdown-item text-white' href='#'>Another action</a></li>
-                <li><a className='dropdown-item custom-dropdown-item text-white' href='#'>Something else here</a></li>
+                <li><a className='dropdown-item custom-dropdown-item text-white' href='/inventaris'>Action</a></li>
+                <li><a className='dropdown-item custom-dropdown-item text-white' href='/inventaris'>Another action</a></li>
+                <li><a className='dropdown-item custom-dropdown-item text-white' href='/inventaris'>Something else here</a></li>
               </ul>
             </li>
             <li className='nav-item dropdown'>

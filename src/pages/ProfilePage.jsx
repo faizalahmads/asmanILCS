@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Navbar from '../components/Navbar'
 import CustomModal from '../components/ModalProfile'
-import fpProfile from '../assets/img/fpProfile.png';
+import fpProfile from '../assets/img/fpProfile2.png';
 import iconEdit from '../assets/svg/icon-edit.svg';
 import iconAdd from '../assets/svg/icon-add.svg';
 import iconEdit2 from '../assets/svg/icon-edit-2.svg';
